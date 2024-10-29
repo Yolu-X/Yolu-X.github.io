@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* overview */
+.overview{
+    display:flex;
+    align-items: flex-start;
+    padding: 48px;
+    gap: 24px;
+    background-color:#0b0b0b;
+}
+
+.flex_ver.overview{
+    gap:0;
+    width:50%;
+    padding: 0 48px 0 0;
+}
+
+.img_overview{
+    width: 50%;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    border-radius: 2rem;
+    margin:auto;
+    border: 2px solid #3e3e3e;
+}
+
+/* design system*/
+.main_color{
+    color: #F5CA3B;
+}
+
+.on_dark{
+    color:rgb(231, 229, 228);
+}
+
+
+/*images & icons*/

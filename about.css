@@ -1,0 +1,37 @@
+.pic_block{
+    background-color: antiquewhite;
+    padding-top:160px;
+    width:100%;
+}
+
+.pic_r{
+    width:50%;
+    padding-top:37.5%;
+    background-image: url("project_cover.png");
+}
+
+.pic_s{
+    width:12.5%;
+    padding-top:12.5%;
+    background-color: rgb(211, 202, 123);
+}
+
+.pic_m{
+    width:37.5%;
+    padding-top:25%;
+    background-color: rgb(101, 120, 77);
+}
+
+.pic_l{
+    width:62.5%;
+    padding-top:37.5%;
+    background-color: rgb(90, 62, 174);
+}
+
+.pic{
+
+}
+
+.td_pic{
+    width:50%;
+}
