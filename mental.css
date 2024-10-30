@@ -3,7 +3,7 @@
     align-items: flex-start;
     padding: 48px;
     gap: 24px;
-    background-color:#dce2e7;
+    background-color:#DADADA;
 }
 
 .flex_ver.overview{
@@ -28,9 +28,9 @@
 
 /* design system*/
 .main_color{
-    color: #1e2044;
+    color: #235b2e;
 }
 
 .on_light{
-    color:#37395a;
+    color:#3e3e3e;
 }
